@@ -1,7 +1,7 @@
 from mesa import Model
 from mesa.time import RandomActivation
 from predator import Predator
-from prey import Prey
+from python_files.prey import Prey
 
 
 
